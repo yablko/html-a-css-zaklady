@@ -36,10 +36,16 @@
 		article {
 			border: 1px solid #ccc;
 
-			padding: 50px;
 			margin: 50px auto;
+			padding: 50px;
 
 			max-width: 420px;
+		}
+
+		footer img {
+			width: 80px;
+			border-radius: 50%;
+			border: 2px solid orange;
 		}
 	</style>
 </head>
@@ -47,8 +53,10 @@
 <body>
 
 	<article>
-		<h1>Toto je nadpis</h1>
-		<h2>Tento nadpis je drobnejší</h2>
+		<header>
+			<h1>Toto je nadpis</h1>
+			<h2>Tento nadpis je drobnejší</h2>
+		</header>
 
 		<p>
 			Lorem ipsum dolor sit amet <strong>consectetur adipisicing</strong> elit.
@@ -57,15 +65,15 @@
 			sapiente laborum.
 		</p>
 
-		<!-- <p>
-			<img src="https://blog.sme.sk/blog/24037/352506/vaso_patejdl_4.jpg"
-				alt="krásny umelec vašislav patejdl za mikrofónom">
-		</p> -->
-
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque quia, necessitatibus, rerum sit impedit amet quod
 			sed natus repellat iure earum ducimus!
 		</p>
+
+		<footer>
+			<img src="https://blog.sme.sk/blog/24037/352506/vaso_patejdl_4.jpg"
+				alt="krásny umelec vašislav patejdl za mikrofónom">
+		</footer>
 	</article>
 
 </body>
