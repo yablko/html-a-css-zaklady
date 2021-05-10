@@ -1,0 +1,81 @@
+/* GENERAL */
+body {
+	color: rgb(240, 240, 240);
+	background: rgb(27, 39, 51);
+	font-family: Roboto, Helvetica, Arial,
+		sans-serif;
+	text-align: center;
+}
+
+/* LINKS */
+a {
+	color: orange;
+	font-weight: bold;
+}
+
+a:hover,
+a:active {
+	color: #bada55;
+}
+
+/* HEADINGS */
+h1,
+h2,
+h3 {
+	margin: 0;
+}
+
+h2 {
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-top: 8px;
+}
+
+h1,
+strong,
+em {
+	color: orange;
+}
+
+/* ARTICLE */
+article {
+	border: 1px solid #ccc;
+
+	margin: 50px auto;
+	padding: 50px;
+
+	max-width: 420px;
+}
+
+ol,
+ul {
+	color: #ccc;
+	font-size: 75%;
+	text-align: left;
+}
+
+/* UTILITIES */
+.highlighted {
+	color: #bada55;
+}
+
+.chunky {
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+/* FOOTER */
+footer img {
+	width: 80px;
+	border-radius: 50%;
+	border: 2px solid orange;
+}
+
+footer a:hover img,
+footer a:active img {
+	border-color: #bada55;
+}
+
+img {
+	border-color: white;
+}
