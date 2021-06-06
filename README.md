@@ -3,7 +3,7 @@
 **Naučím ťa HTML a CSS za hodinu a pol.** Web technológie (HTML, CSS, JS) nie sú len o webstránkach. Dnes nimi vieš vyrobiť plnohodnotné aplikácie. Mobilné, desktopové. HTML a CSS sú ideálny vstup do IT sveta. Do textu pridávaš tzv. značky, to je celé. Neexistujú tu žiadne algoritmy, funkcie, iné podlé slová. Každý to zvládne, stačí len čas a trpezlivosť a usmernenie. To ti dám! Tu!
 
 Ak si učiteľ alebo škola, máš plné povolenie používať ako len chceš ❤️  
-Ak ma chceš podporiť, môžeš cez PATREON https://patreon.com/yablko 🙏  
+Ak ma chceš podporiť, môžeš cez **PATREON https://patreon.com/yablko** 🙏  
 Patróni majú všetky videá skôr, kurzy dostanú aj ako text, občas im hodím ponuku na job a ďalšie srandy 👍  
 
 ---
