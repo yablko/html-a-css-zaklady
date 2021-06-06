@@ -14,6 +14,8 @@ Patróni majú všetky videá skôr, kurzy dostanú aj ako text, občas im hodí
   
 --- 
   
+### Odkazy
+  
 **CZ / SK ZDROJE (ak poznáš ďalšie, povedz mi)**  
 :: https://www.jakpsatweb.cz  
 :: https://zdrojak.cz  
@@ -72,3 +74,37 @@ ehm
 
 ---
 
+### Skús sama písať kód (to je jediný spôsob, ako sa to naučiť)
+
+    napríklad vytvor gallery.html
+    
+    - bude mať rovnakú štruktúru ako moje index.html
+    - pridaj na stránku obrázky (nájdi si vlastné, pekné, napríklad na unsplash.com)
+    - obrázky obal do odkazov
+    - kliknutie na obrázok zobrazí jeho väčšiu verziu
+    - čiže na stránke sa bude zobrazovať zmenšená verzie
+    - dosiahni, aby všetky zmenšené obrázky mali rovnakú veľkosť 
+
+
+---
+
+**KURZY, ktoré spomínam vo videu (trochu si spravím reklamu)**
+  
+<sup>HTML/CSS skús ZDARMA https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF  
+WEBREBEL kurz tu https://www.learn2code.sk/kurzy/webrebel-1-html-css-javascript  
+Všetky moje learn2code kurzy https://www.learn2code.sk/instruktori/roman-hraska 1300+ videí  
+Predplatné (dostaneš všetko, čo existuje) https://www.learn2code.sk/predplatne  
+Tu nájdeš kopu ukážok z mojich kurzov, skús si ich ZDARMA https://www.youtube.com/c/Yablko/playlists?view=1&sort=dd&shelf_id=0</sup>
+
+---
+
+❤️ PATREON https://patreon.com/yablko  
+🎬 YOUTUBE 2 https://youtube.com/yablko  
+🍿 TWITCH https://twitch.com/yablko_  
+📸 INSTAGRAM https://instagram.com/yablko  
+👍 FACEBOOK https://www.facebook.com/yablko.smrdi  
+🐦 TWITTER https://twitter.com/yablko  
+📚 BLOGY https://medium.com/@yablko  
+  
+📚 Všetky moje learn2code kurzy  
+:: https://www.learn2code.sk/instruktori/roman-hraska 1300+ videí
