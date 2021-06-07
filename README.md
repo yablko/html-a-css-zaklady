@@ -11,7 +11,7 @@ Patróni majú všetky videá skôr, kurzy dostanú aj ako text, občas im hodí
 ### ✨ HTML a CSS 🇸🇰 od základov (1h 33m 21s)  
 :: https://youtu.be/LULd0858mUQ  
   
-[![youtube tutorial link](html-css-zaklady.jpg)](https://youtu.be/LULd0858mUQ)  
+[![youtube tutorial link](images/html-css-zaklady.jpg)](https://youtu.be/LULd0858mUQ)  
   
 --- 
   
