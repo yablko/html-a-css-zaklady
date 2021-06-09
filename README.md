@@ -72,6 +72,9 @@ kopíruj a kradni z kódu
 
 ehm  
 :: https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l  
+  
+**moje VS CODE nastavenia**  
+:: https://gist.github.com/yablko/8a49e107e84f8693a86e4169210bf460
 
 ---
 
