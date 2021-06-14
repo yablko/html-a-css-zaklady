@@ -50,6 +50,9 @@ Na Windows myslím funguje kratka Alt + Shift na prepínanie jazykov, ak si ich 
 
 ukážka, čo sa dá s CSS  
 :: https://twitter.com/MengTo/status/1296834767560876032  
+
+nekonečný príval noviniek  
+:: https://twitter.com/smashingmag  
   
 jednoduché pozadia čisto v CSS  
 :: https://projects.verou.me/css3patterns  
